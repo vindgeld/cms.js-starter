@@ -2,7 +2,7 @@
 layout: post
 title: penjajalan
 excerpt: penjajalan aja...... tyled with Markdown. Basic typography, images, and code are all supported.
-date: 2018-03-01
+date: 2021-11-10
 tags: sampletag
 author: Mark
 ---
